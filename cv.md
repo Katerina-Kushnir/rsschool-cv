@@ -3,7 +3,7 @@
 ![Kate logo](images/Kate.jpg)  
 # Kateryna Kushnir
 
-## ***Junior Front-end developer***
+#### ***Junior Front-end developer***
 
 ## Contact information:
 
