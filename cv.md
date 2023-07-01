@@ -1,30 +1,22 @@
 ## rsschool-cv
 # Kateryna Kushnir
 
-— — —
+## Junior Front-end developer
 
-### Junior Front-end developer
-
-— — —
-
-### Contact information:
+## Contact information:
 
 ***Phone:*** +38(098)37-87-268  
-***E-mail:*** kushnirkatya25@gmail.com  
+***E-mail:*** [kushnirkatya25@gmail.com](kushnirkatya25@gmail.com)  
 ***Telegram:*** @kushnirkatya  
-***LinkedIn:*** [kushnirkatya] (https://www.linkedin.com/in/%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%BA%D1%83%D1%88%D0%BD%D0%B8%D1%80-700a27232/)  
-***Discord:*** kushnirkatya
-***GitHub:*** [kushnirkatya] (https://github.com/Katerina-Kushnir)  
+***LinkedIn:*** [kushnirkatya](https://www.linkedin.com/in/%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%BA%D1%83%D1%88%D0%BD%D0%B8%D1%80-700a27232/)  
+***Discord:*** kushnirkatya  
+***GitHub:*** [kushnirkatya](https://github.com/Katerina-Kushnir)  
 
-— — —
-
-### About Me
+## About Me
 
 I am a junior front-end developer. I got interested in programming a few years ago. I am always learning something new and trying to improve. I have experience working as a freelancer on upwork. My dream is to work in a big company and be useful for the company.
 
-— — —
-
-### Skills
+## Skills
 
 * HTML
 * CSS
@@ -37,9 +29,7 @@ I am a junior front-end developer. I got interested in programming a few years a
 * PHP
 * WordPress
 
-— — —
-
-### Code examples
+## Code examples
 
 ```javascript
 function camelize(str) {
@@ -53,9 +43,7 @@ function camelize(str) {
 }
 ```
 
-— — —
-
-### Experience
+## Experience
 
 I have experience working as a freelancer on upwork and weblancer. Here are some examples:
 
@@ -66,15 +54,11 @@ https://katerina-kushnir.github.io/site4/
 https://katerina-kushnir.github.io/site2/  
 https://katerina-kushnir.github.io/site1/  
 
-— — —
-
-### Education
+## Education
 
 Dnipro National University of Rail Transport, master's degree: electrical engineer 
 
-— — —
-
-### Languages
+## Languages
 
 * Ukrainian 
 * Russian 
