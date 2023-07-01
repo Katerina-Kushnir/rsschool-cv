@@ -4,6 +4,7 @@
 # Kateryna Kushnir  
 
 #### ***Junior Front-end developer***
+=====
 
 ## Contact information:
 
