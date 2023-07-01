@@ -1,7 +1,9 @@
 ## rsschool-cv
 
 ![Kate logo](images/Kate.jpg)  
-# Kateryna Kushnir (#### ***Junior Front-end developer***)
+# Kateryna Kushnir  
+
+#### ***Junior Front-end developer***
 
 ## Contact information:
 
